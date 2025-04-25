@@ -22,6 +22,6 @@ public class Main {
         }else{
             System.out.println("Share his treasure, congrats you win");
         }
-
+        scanner.close();
     }
 }
